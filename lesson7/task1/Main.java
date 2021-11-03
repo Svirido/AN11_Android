@@ -13,5 +13,6 @@ public class Main {
         String line1 = line.substring(A + 1, B);
         System.out.println(line1);
 
+
     }
 }

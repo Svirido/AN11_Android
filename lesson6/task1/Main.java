@@ -17,5 +17,6 @@ public class Main {
 
         itog.printantibody(); // вывод на печать количесвта антител
 
+
     }
 }

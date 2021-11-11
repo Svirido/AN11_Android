@@ -28,7 +28,6 @@ public class Main {
                 System.out.println("Hey!");
             }
         };
-
         spain.wish();
         english.wish();
         german.wish();
